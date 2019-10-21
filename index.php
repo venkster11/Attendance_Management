@@ -45,8 +45,7 @@
       </div>
     </nav>
   <div class="container">
-    <h2>For Students</h2>
-    <h4>Click here for <a href="student.php">Student Dashboard</a></h4>
+    <br>
     <hr>
     <h2>For Faculty</h2>
     <div class="alert alert-warning hidden">
